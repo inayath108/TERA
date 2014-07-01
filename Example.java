@@ -1,3 +1,5 @@
+//Example program that display required number of variable set in the prediction model
+
 import java.io.*;
 public class Example {
 	public static void main(String args[])throws Exception{
