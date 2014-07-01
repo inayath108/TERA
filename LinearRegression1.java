@@ -1,5 +1,3 @@
-//This program will display the LinerRegression values for data set
-
 import java.io.BufferedReader;
 import java.io.DataInputStream;
 import java.io.FileInputStream;
