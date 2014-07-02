@@ -14,6 +14,8 @@ DataInputStream ob=new DataInputStream(System.in);
 double sumxi1=0.0,sumxi2=0.0,sumxi3=0.0,sumyi=0.0,xi1sq=0.0,xi2sq=0.0,xi3sq=0.0,xi12=0.0,xi13=0.0,xi23=0.0,xi1y=0.0,xi2y=0.0,xi3y=0.0;
 
 FileInputStream fstream = new FileInputStream("D:/Project/java/Book2.txt");
+FileInputStream fstream = new FileInputStream("D:/Project/java/Book1.txt");
+
 
 DataInputStream in = new DataInputStream(fstream);
 BufferedReader br = new BufferedReader(new InputStreamReader(in));
